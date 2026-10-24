@@ -1,5 +1,6 @@
 
-# Cynaris Week 1 Day 4 — Responsive Design & Media Queries
+# Cynaris Week 1 Day 4 
+## Responsive Design & Media Queries
 
 ## Objective
 Build a responsive web page using mobile-first CSS.
